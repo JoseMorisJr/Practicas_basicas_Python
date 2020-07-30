@@ -8,8 +8,8 @@ def leer_matriz(Num_matriz):
 
 def leer_consola(cantidad):
     
-    print("Digite los {} numeros separados por una coma.".format(cantidad))
-    a = input("Digite los numeros:")
+    print("Digite los {} números separados por una coma.".format(cantidad))
+    a = input("Digite los números:")
 
     lista = []
     n = 0
